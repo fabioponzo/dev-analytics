@@ -14,5 +14,8 @@
     "axios": "^0.25.0",
     "dotenv": "^14.3.0",
     "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "sucrase": "^3.20.3"
   }
 }
